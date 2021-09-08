@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arafat006
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning CNN
+- 👋 Hi, I’m Arafat Hossain
+- 👀 I’m interested in Learning new technologies.
+- 🌱 I’m currently learning #@&$#@!@#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arafathossainarafat6@gmail.com
 
