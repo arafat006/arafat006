@@ -1,10 +1,15 @@
-- 👋 Hi, I’m MD. Arafat Hossain
-- 👀 I’m interested in Learning new technologies.
-- 🌱 I’m currently learning #@&$#@!@#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arafathossainarafat6@gmail.com
+<h3>
+Hi, I am MD. Arafat Hossain
+</h3>
 
-My portfolio: https://arafat006.github.io/portfolio
+<h4>
+I'm an expert at full-stack web development, currently working as a full-time Software Engineer at Enosis Solutions. I also develop mobile apps as a hobby. I've additionally worked with Unity Games before from my coding interest.
+</h4>
+
+<h3>
+My Portfolio: https://arafat006.github.io/portfolio
+</h3>
+
 <!---
 arafat006/arafat006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
