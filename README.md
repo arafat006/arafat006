@@ -72,21 +72,23 @@ Beyond professional software engineering, I love experimenting with new technolo
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<a href="https://github.com/arafat006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafat006&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&include_all_commits=true" />
-</a>
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=arafat006&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9"
+    alt="GitHub Stats" />
 
-<a href="https://github.com/arafat006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat006&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8" />
-</a>
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arafat006&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8"
+    alt="Top Languages" />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arafat006&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" />
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=arafat006&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981"
+    alt="GitHub Streak" />
 
 </div>
 
