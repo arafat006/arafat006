@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:10b981&height=220&section=header&text=MD.%20Arafat%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:10b981&height=220&section=header&text=MD.%20Arafat%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/arafat006">
   <img src="https://komarev.com/ghpvc/?username=arafat006&label=PROFILE%20VIEWS&color=059669&style=for-the-badge" alt="Profile views" />
