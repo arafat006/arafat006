@@ -95,9 +95,7 @@ Beyond professional software engineering, I love experimenting with new technolo
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arafat006&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=arafat006&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" />
 </div>
 
 ---
