@@ -94,24 +94,6 @@ Beyond professional software engineering, I love experimenting with new technolo
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=arafat006&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arafat006&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
